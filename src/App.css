@@ -1,0 +1,61 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #66ccff;
+  margin: 0;
+  padding: 0;
+  color: #fff;
+}
+
+.App {
+  max-width: 600px;
+  margin: 0 auto;
+  margin-top: 40px;
+  background-color: #3366cc;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+button {
+  background-color: #99c2ff;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  margin: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #003380;
+}
+
+p {
+  font-size: 18px;
+}
+
+.Resultado {
+  margin-top: 30px;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.Placar {
+  margin-top: 30px;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
